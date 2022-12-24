@@ -4,10 +4,10 @@
 
 In the following credit card risk analysis we want to predict whether someone has a low or high risk status to not pay back his loan. Credit card risk is hard to predict because the data is unbalanced and has a classification problem because good loans easily outnumber risky loans. Therefore it's necessary to use different techniques to train and evaluate models with unbalanced classes. The data will get oversampled by using the RandomOverSampler and SMOTE algorithms, and under sampled by using the CLusterCentroids algorithms. At the next step we use two machine learning models that reduce bias BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict the risk. For resampling the imbalanced-learn and scikit_learn libraries are used. 
 
-Deliverable 1: Use Resampling Models to Predict Credit Risk.
-Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
-Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
-Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
+- Deliverable 1: Use Resampling Models to Predict Credit Risk.
+- Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
+- Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
+- Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
 
 ## Results:
