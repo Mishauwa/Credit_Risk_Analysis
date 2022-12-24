@@ -16,35 +16,37 @@ Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 	- The balanced accuracy score is 67%.
 	- The precision for the high_risk is very low with 1% and the recall is 74%
 
-
+<img width="1088" alt="Naive_Random_OS" src="https://user-images.githubusercontent.com/69826498/209418884-704e1416-03fe-47fc-8ce8-a5e8a8d122db.png">
 
 - SMOTE Oversampling results: 
 	- The balanced accuracy score is 66%.
 	- The precision for the high_risk is very low with 1% and the recall is 63%
 
-
+<img width="1088" alt="SMOTE" src="https://user-images.githubusercontent.com/69826498/209418887-6cb8007e-6e7b-49c2-83b7-1bcc162f71ae.png">
 
 - Undersampling results: 
 	- The balanced accuracy score is 54%.
 	- The precision for the high_risk is very low with 1% and the recall is 69%
 
-
+<img width="1088" alt="Undersampling" src="https://user-images.githubusercontent.com/69826498/209418908-291a5723-3cec-4a67-8a49-31945187bc49.png">
 
 - Combination (Over- and Undersampling) results: 
 	- The balanced accuracy score is 64%.
 	- The precision for the high_risk is very low with 1% and the recall is 72%
-
-
+	
+<img width="1088" alt="Combination" src="https://user-images.githubusercontent.com/69826498/209418914-417faf43-2954-46a2-9920-8fb4519b03ff.png">
 
 - Balanced Random Forest results: 
 	- The balanced accuracy score is 78%.
 	- The precision for the high_risk is very low with 4% and the recall is 68%
 
+<img width="1088" alt="Random_Forest" src="https://user-images.githubusercontent.com/69826498/209418926-d50c39b0-7e1d-4da6-a85c-5a30d3d6a162.png">
 
 - Easy Ensemble results: 
 	- The balanced accuracy score is 91%.
 	- The precision for the high_risk is very low with 9% and the recall is 89%
 
+<img width="1088" alt="Easy_Ensemble" src="https://user-images.githubusercontent.com/69826498/209418935-360262dd-4046-4abc-b649-c067f7e84f3d.png">
 
 ## Summary:
 
